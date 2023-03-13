@@ -1,4 +1,4 @@
-# Planets-3D-Animation
+# Solar-System-3D-Animation
 Solar System 3D Animation in Processing 4.
 
 The animation is a 3D space scene of planets (Saturn and Earth with a moon) revolving around the Sun with asteroids whizzing by and breaking apart.
