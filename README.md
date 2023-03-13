@@ -5,6 +5,9 @@ The animation is a 3D space scene of planets (Saturn and Earth with a moon) revo
 
 The classes created are: Earth, Saturn, and Asteroids.
 
+Create this file structure to run the project:
+<img width="265" alt="Screenshot 2023-03-12 at 7 47 34 PM" src="https://user-images.githubusercontent.com/113384816/224585105-30c81686-8475-4337-b23e-4114f2293aba.png">
+
 The user is able to move the camera around the sceen by clicking and dragging. In addition a zoom in zoom out feature was added by using the scroll wheel.
 
 The Earth class sets up the earth like planet and its respective moon to revolve around the sun and rotate the earth and make the moon revolve around the earth.
