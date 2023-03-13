@@ -1,7 +1,8 @@
 # Planets-3D-Animation
-Solar System 3D Animation in Processing 4
+Solar System 3D Animation in Processing 4.
 
 The animation is a 3D space scene of planets (Saturn and Earth with a moon) revolving around the Sun with asteroids whizzing by and breaking apart.
+
 The classes created are: Earth, Saturn, and Asteroids.
 
 The Earth class sets up the earth like planet and its respective moon to revolve around the sun and rotate the earth and make the moon revolve around the earth.
