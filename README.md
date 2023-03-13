@@ -7,7 +7,7 @@ The classes created are: Earth, Saturn, and Asteroids.
 
 To fully run the project:
 
-1. Create this file structure
+1. Create this file structure.
 2. Download the following files and put them in a "data" folder inside the project directory.
 
 <img width="265" alt="Screenshot 2023-03-12 at 7 47 34 PM" src="https://user-images.githubusercontent.com/113384816/224585105-30c81686-8475-4337-b23e-4114f2293aba.png">
