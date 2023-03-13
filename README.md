@@ -25,3 +25,5 @@ Katsiaryna Aliashkevich was in charge of creating the Saturn class and adding th
 Rami Awada was in charge of creating the earth class and setting up the camera.
 
 Ethan Rose was in charge of creating the asteroids.
+
+<img width="774" alt="Screenshot 2023-03-12 at 8 57 39 PM" src="https://user-images.githubusercontent.com/113384816/224591142-56334fa6-5bd7-417b-983e-cec2744a3236.png">
