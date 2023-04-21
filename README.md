@@ -20,10 +20,10 @@ The Earth class sets up the earth like planet and its respective moon to revolve
 The Saturn class sets up the Saturn like planet and its rings to revolve around the sun and also rotate on its axis. The rings rotate in the opposite direction of the planet's rotation.
 The Asteroid class sets up the asteroids to move across the scene and split into smaller asteroid chunks before resetting.
 
+<img width="774" alt="Screenshot 2023-03-12 at 8 57 39 PM" src="https://user-images.githubusercontent.com/113384816/224591142-56334fa6-5bd7-417b-983e-cec2744a3236.png">
+
 Katsiaryna Aliashkevich was in charge of creating the Saturn class and adding the rings to the planet that animate rotating in the opposite direction than the planet itself.
 
 Rami Awada was in charge of creating the earth class and setting up the camera.
 
 Ethan Rose was in charge of creating the asteroids.
-
-<img width="774" alt="Screenshot 2023-03-12 at 8 57 39 PM" src="https://user-images.githubusercontent.com/113384816/224591142-56334fa6-5bd7-417b-983e-cec2744a3236.png">
